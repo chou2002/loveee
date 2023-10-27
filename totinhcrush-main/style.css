@@ -21,7 +21,7 @@ body{
 .loading .boxHeartImg{
     position: absolute;
     width: 100%;
-    top: -80px;
+    top: -40px;
     display: flex;
     justify-content: space-between;
 }
